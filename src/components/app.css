@@ -1,0 +1,11 @@
+.titulo{
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Bellota text';
+    margin-top: 5px;
+    border-radius: 20px;
+    color: rgb(0, 0, 14);
+    text-shadow: 2px 2px #22dfec;
+}
