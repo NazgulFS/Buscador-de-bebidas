@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NazgulFS/Buscador-de-bebidas/static/css/main.a2d3df89.chunk.css",
+    "main.js": "/NazgulFS/Buscador-de-bebidas/static/js/main.38f03a04.chunk.js",
+    "main.js.map": "/NazgulFS/Buscador-de-bebidas/static/js/main.38f03a04.chunk.js.map",
+    "runtime-main.js": "/NazgulFS/Buscador-de-bebidas/static/js/runtime-main.4d512d64.js",
+    "runtime-main.js.map": "/NazgulFS/Buscador-de-bebidas/static/js/runtime-main.4d512d64.js.map",
+    "static/css/2.dc17f35a.chunk.css": "/NazgulFS/Buscador-de-bebidas/static/css/2.dc17f35a.chunk.css",
+    "static/js/2.96cd017d.chunk.js": "/NazgulFS/Buscador-de-bebidas/static/js/2.96cd017d.chunk.js",
+    "static/js/2.96cd017d.chunk.js.map": "/NazgulFS/Buscador-de-bebidas/static/js/2.96cd017d.chunk.js.map",
+    "index.html": "/NazgulFS/Buscador-de-bebidas/index.html",
+    "precache-manifest.a0a4f536ae23ba7e19be9ffbdc043e2f.js": "/NazgulFS/Buscador-de-bebidas/precache-manifest.a0a4f536ae23ba7e19be9ffbdc043e2f.js",
+    "service-worker.js": "/NazgulFS/Buscador-de-bebidas/service-worker.js",
+    "static/css/2.dc17f35a.chunk.css.map": "/NazgulFS/Buscador-de-bebidas/static/css/2.dc17f35a.chunk.css.map",
+    "static/css/main.a2d3df89.chunk.css.map": "/NazgulFS/Buscador-de-bebidas/static/css/main.a2d3df89.chunk.css.map",
+    "static/js/2.96cd017d.chunk.js.LICENSE.txt": "/NazgulFS/Buscador-de-bebidas/static/js/2.96cd017d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d512d64.js",
+    "static/css/2.dc17f35a.chunk.css",
+    "static/js/2.96cd017d.chunk.js",
+    "static/css/main.a2d3df89.chunk.css",
+    "static/js/main.38f03a04.chunk.js"
+  ]
+}
